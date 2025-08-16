@@ -20,9 +20,11 @@ Previously know as “Cleotris” or “Cleo” by the Local population, was ren
 - Elves
 	- High Elves
 	- Wood Elves
+- Goliaths
+- Tieflings
 - Goblins
-- Fey (rarely)
 - Dragonborn
+- Fey (rarely)
 - _+All original inhabitants_
 
 ## Religion
