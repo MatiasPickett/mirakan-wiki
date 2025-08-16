@@ -18,7 +18,7 @@ This is the landing page for the wiki, here’s a list of things you might want 
 - [[Mirakas]]
 - [[Warmshore]]
 ## NPCs
-- TO BE CONTINUED
+- [[Robby]]
 ## Quests
 - **Active**
 	- TO BE CONTINUED
