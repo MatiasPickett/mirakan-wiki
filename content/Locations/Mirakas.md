@@ -2,18 +2,12 @@ Previously know as “Cleotris” or “Cleo” by the Local population, was ren
 
 ### Original Inhabitants
 
-- Humans
-    East Coast
-- Dwarves
-    Mountains
-- Halflings
-    South Bay & Coast
-- Gnomes
-    North Coast
-- Orcs
-    West Coast
-- Tabaxi
-    Southern Island
+- Humans -> East Coast
+- Dwarves -> Mountains
+- Halflings -> South Bay & Coast
+- Gnomes -> North Coast
+- Orcs -> West Coast
+- Tabaxi -> Southern Island
 
 ### Modern Era Inhabitants
 
