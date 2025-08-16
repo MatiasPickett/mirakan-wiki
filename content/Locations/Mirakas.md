@@ -7,7 +7,7 @@ Previously know as “Cleotris” or “Cleo” by the Local population, was ren
 - Halflings -> South Bay & Coast
 - Gnomes -> North Coast
 - Orcs -> West Coast
-- Tabaxi -> Southern Island
+	- Tabaxi -> Southern Island
 
 ### Modern Era Inhabitants
 

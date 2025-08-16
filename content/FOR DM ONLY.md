@@ -21,3 +21,6 @@ Dwarves -> Balkan/Soviet
 Halflings -> Italian
 Gnomes -> Scandinavian
 Tabaxi    -> Irish
+
+
+Overarching Plot and Ideas
