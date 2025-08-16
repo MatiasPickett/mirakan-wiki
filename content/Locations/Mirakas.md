@@ -29,5 +29,5 @@ Previously know as “Cleotris” or “Cleo” by the Local population, was ren
 
 - See [[Mirakese Pantheon]]
 
-## [[Mirakas-map.png|Map]]
-![[Mirakas-map.png|Map]]
+## [[Mirakas-players.png]]
+![[Mirakas-players.png]]
