@@ -27,4 +27,4 @@ This is the landing page for the wiki, here’s a list of things you might want 
 ## Tables
 - [[Adventuring Gear]]
 ## Maps
-- [[Mirakas (Continent)]]
+- [[Mirakas-map.png|Mirakas (Continent)]]
