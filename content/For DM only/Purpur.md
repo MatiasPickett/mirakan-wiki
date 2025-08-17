@@ -6,10 +6,9 @@ Purpur consumption, generally done by letting the crystal dissolve on the tongue
 - Hallucinations
 - Spontaneous wild magic manifestation
 
-These effects are much more mild when affecting elves, possibly due to their magical nature, in their culture, it is used as a recreational drug for celebrations and other ocasions.
+These effects are much more mild when affecting elves, possibly due to their magical nature. In their culture, it is used as a recreational drug for celebrations and other occasions.
 ### History
 Purpur was discovered by elven alchemists several centuries ago and only recently has been introduced in Mirakas.
-
 ### Variants
 - **Synthetic Purpur** is synthesized by knowledgable wizards and alchemists with the correct equipment and time, and produces a product with a slight cyan shade and a touch of purple. Its effects are not as intense but still highly addictive.
 

@@ -23,4 +23,7 @@ Gnomes -> Scandinavian
 Tabaxi    -> Irish
 
 
-Overarching Plot and Ideas
+#### Plot hooks I want to incorporate into the story:
+- Ricky (the rogue who asks for the parties help with exploring that dungeon and then dies, has some purpur in his pouch)
+- The mayor of Warmshore acts like he is against the mob and the traffic of Purpur, but since he knows its the only thing keeping the economy of the town alive, he actually enables it in secret.
+- Kingdom of Kath has a small resistance that wants to overthrow the current colonial Elven government but they need an ancient Artifact (The artifact can be the sword of Daalia Kath)
