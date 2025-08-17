@@ -1,0 +1,2 @@
+### Religion
+The Elven Empire worships **no Gods**, because then though they acknowledge their existence, they decided a long time ago that the true rulers of this world are the ones who live on this world, not anyone who oversees it. However, in Mirakas, they accept freedom or religion, since they just see it as an additional way to make people complacent. For this reason, ==there are no Native elven Clerics==, the only ones in existence are naturalized Mirakans, that have taken up the worship of a Mirakan God.
