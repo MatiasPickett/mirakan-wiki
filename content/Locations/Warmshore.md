@@ -13,6 +13,10 @@ Of course no good town is complete without some crime. Warmshore had always had 
 - Temple of [[Umberlee]]
 
 ## Points of Interest
+- Town Hall
+	- [[]] is the mayor of the town
 - Fish Market
-- Thieve’s Guild
 - Inn
+- General Store
+
+## Surrounding Area

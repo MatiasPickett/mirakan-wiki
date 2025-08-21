@@ -1,3 +1,0 @@
-Underneath the fish market of Warmshore there exists a whole operation of a drug trafficking ring, (TO BE NAMED). They deal in the drug [[Purpur]].
-
-In these hidden facilities they have the labs used to synthetize the [[Purpur|P]], they have packaging stations where they wrap the product in layers of cloth and then submerge into barrels of fermented fish in order to smuggle to the rest of the colony.
