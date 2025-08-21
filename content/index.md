@@ -9,7 +9,7 @@
 ## Gods
 - [[Umberlee]]
 ## Homebrew
-- [[Last Stand]]
+- TO BE CONTINUED
 ## Locations
 - [[Mirakas]]
 - [[Warmshore]]

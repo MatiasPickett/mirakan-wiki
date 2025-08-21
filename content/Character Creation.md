@@ -2,9 +2,9 @@ To create your character you just need to follow the steps in the [Character Cre
 
 As far as restrictions there aren't many, we can work together to make the character you want.
 
-**Classes:** 
+### Classes: 
 - ALL
-**Races:** 
+### **Races:** 
 - Human
 - Dwarf
 - Halfling
@@ -19,6 +19,11 @@ As far as restrictions there aren't many, we can work together to make the chara
 - Goblin
 - Dragonborn
 - Fey (rarely)
-**Backgrounds**
+
+### **Backgrounds**
 - ALL
 - *+ Custom*
+
+### Starting Equipment
+- Starting Equipment from the PHB
+- 1 [Common Magic Item](http://dnd2024.wikidot.com/magic-item:all) of your choice
