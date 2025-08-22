@@ -14,7 +14,7 @@
 - [[Mirakas]]
 - [[Warmshore]]
 ## NPCs
-- [[Robby]]
+- TO BE CONTINUED
 ## Quests
 - **Active**
 	- TO BE CONTINUED
