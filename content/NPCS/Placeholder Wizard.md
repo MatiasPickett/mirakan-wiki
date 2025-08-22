@@ -1,1 +1,0 @@
-Wizard who invented [[Superior Spell Scroll (Scroll, Rare)|Superior Spell Scrolls]] 

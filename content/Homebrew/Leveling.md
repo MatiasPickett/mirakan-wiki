@@ -18,4 +18,4 @@ However I don't want you all waiting all the time for level ups, so I want every
 	- Actual NPCs that join the party
 	- Political alliances and favors
 
-In general I'm going to aim for slow leveling, also so that people can learn each of their class features with due time.
+In general I'm going to aim for **slow leveling**, also so that people can learn each of their class features with due time.

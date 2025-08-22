@@ -1,1 +1,0 @@
-A constable of a Town is the equivalent to a modern day policeman

@@ -7,7 +7,6 @@ Previously know as “Cleotris” or “Cleo” by the Local population, was ren
 - Gnomes -> North Coast
 - Orcs -> West Coast
 	- Tabaxi -> Southern Island
-
 ### Modern Era Inhabitants
 - Elves
 	- High Elves
@@ -20,7 +19,6 @@ Previously know as “Cleotris” or “Cleo” by the Local population, was ren
 - _+All original inhabitants_
 
 ## Religion
-
 - See [[Mirakese Pantheon]]
 
 ## [[Mirakas-players.png]]
