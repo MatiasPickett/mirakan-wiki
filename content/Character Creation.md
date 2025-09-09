@@ -4,6 +4,7 @@ As far as restrictions there aren't many, we can work together to make the chara
 
 ### Classes: 
 - ALL
+- [Psion](https://media.dndbeyond.com/compendium-images/ua/the-psion/mXCPWlh2yy5tBKqP/UA2025-ThePsion.pdf) from the *Unearthed Arcana* play-test documents
 ### **Races:** 
 - Human
 - Dwarf
@@ -27,3 +28,9 @@ As far as restrictions there aren't many, we can work together to make the chara
 ### Starting Equipment
 - Starting Equipment from the PHB
 - 1 [Common Magic Item](http://dnd2024.wikidot.com/magic-item:all) of your choice
+
+
+--------------------------------------------------------
+
+
+Pls just text me if you have any questions about your character, and I can give aditional info and worldbuilding depending on what your character should know about the world. ;)
