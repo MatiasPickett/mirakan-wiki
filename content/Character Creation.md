@@ -1,11 +1,17 @@
-To create your character you just need to follow the steps in the [Character Creation Page](https://www.dndbeyond.com/sources/dnd/br-2024/creating-a-character#CreateYourCharacter) from DnD Beyond.
+To create your character you just need to follow the steps in the [Character Creation Page](https://www.dndbeyond.com/sources/dnd/br-2024/creating-a-character#CreateYourCharacter) for creating a lvl 1 character from DnD Beyond.
 
 As far as restrictions there aren't many, we can work together to make the character you want.
 
-### Classes: 
+OH! And for **stats** I was thinking of you guys using **Standard Array**, which is using the following numbers: **(8,10,12,13,14,15)**, and assigning them how you want.
+
+(**Pro tip**: you can make your character for free on DnD Beyond, the main thing missing is some spells and most feats, but it helps to plan out what your character looks like, and then you can fill out the details in the paper Character Sheet.)
+
+Also! You can model your character in [Hero Forge](https://www.heroforge.com/).
+
+### 1. Classes: 
 - ALL
 - [Psion](https://media.dndbeyond.com/compendium-images/ua/the-psion/mXCPWlh2yy5tBKqP/UA2025-ThePsion.pdf) from the *Unearthed Arcana* play-test documents
-### **Races:** 
+### 2. **Races:** 
 - Human
 - Dwarf
 - Halfling
@@ -20,12 +26,13 @@ As far as restrictions there aren't many, we can work together to make the chara
 - Goblin
 - Dragonborn
 - Fey (rarely)
+- *Other (send me a DM)*
 
-### **Backgrounds**
+### 3. **Backgrounds**
 - ALL
-- *+ Custom*
+- *+ Custom (pick +2/+1 or +1/+1/+1 in stats and any origin feat as long as it makes thematic sense)*
 
-### Starting Equipment
+### 4. Starting Equipment
 - Starting Equipment from the PHB
 - 1 [Common Magic Item](http://dnd2024.wikidot.com/magic-item:all) of your choice
 
