@@ -1,6 +1,8 @@
 # Welcome to Mirakas
 # [[Introduction to the Campaign]] -> Please Read
 
+## Check out the [[Character Creation]] page to make your characters
+
 ## Useful Links
 
 - [2024 D&D Free Rules:](https://www.dndbeyond.com/sources/dnd/br-2024)
@@ -8,6 +10,7 @@
 - [Hero Forge - 3D Character Creator](https://www.heroforge.com/)
 ## Gods
 - [[Umberlee]]
+- [[Corellion]]
 ## Homebrew
 - TO BE CONTINUED
 ## Locations
@@ -23,5 +26,6 @@
 ## Tables
 - [[Adventuring Gear]]
 - [[Scribing Spell Scrolls]]
+- [[Wild Magic Surge]]
 ## Maps
 - [[Mirakas-players.png]]
