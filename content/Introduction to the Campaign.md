@@ -11,7 +11,10 @@ Along with these Elves came a plethora of new species that also started to call 
 We start the campaign in the summer of the Year 33 of the new Mirakan Calendar.
 The Player Characters will start in the small fishing town of [[Warmshore]].
 
-When you want to start making your character, please read the [[Character Creation]] page.
+==When you want to start making your character, please read the [[Character Creation]] page.==
 
 ## Wiki
 All throughout the campaign i will be updating this online **Wiki** with information that's available to the party. If its on the **Wiki**, that means it is either something that is *common knowledge*, or the party has *gained this information*, so your character would probably know about it(up to your own discretion).
+
+## Progression
+Check the [[Levelling]] page.

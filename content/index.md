@@ -1,5 +1,5 @@
 # Welcome to Mirakas
-# [[Introduction to the Campaign]] -> Please Read
+# ==[[Introduction to the Campaign]] -> Please Read==
 
 ## Check out the [[Character Creation]] page to make your characters
 
@@ -12,7 +12,7 @@
 - [[Umberlee]]
 - [[Corellion]]
 ## Homebrew
-- [[Leveling]]
+- [[Levelling]]
 ## Locations
 - [[Mirakas]]
 - [[Warmshore]]
