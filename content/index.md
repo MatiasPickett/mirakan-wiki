@@ -12,7 +12,7 @@
 - [[Umberlee]]
 - [[Corellion]]
 ## Homebrew
-- TO BE CONTINUED
+- [[Leveling]]
 ## Locations
 - [[Mirakas]]
 - [[Warmshore]]
