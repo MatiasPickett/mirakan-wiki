@@ -10,7 +10,8 @@ Also! You can model your character in [Hero Forge](https://www.heroforge.com/).
 
 ### 1. Classes: 
 - ALL
-- [Psion](https://media.dndbeyond.com/compendium-images/ua/the-psion/mXCPWlh2yy5tBKqP/UA2025-ThePsion.pdf) from the *Unearthed Arcana* play-test documents
+- UE [Artificer](https://www.dndbeyond.com/sources/dnd/ua/the-artificer)
+- UE [Psion](https://media.dndbeyond.com/compendium-images/ua/the-psion/mXCPWlh2yy5tBKqP/UA2025-ThePsion.pdf)
 ### 2. **Races:** 
 - Human
 - Dwarf
@@ -35,6 +36,11 @@ Also! You can model your character in [Hero Forge](https://www.heroforge.com/).
 ### 4. Starting Equipment
 - Starting Equipment from the PHB
 - 1 [Common Magic Item](http://dnd2024.wikidot.com/magic-item:all) of your choice
+
+
+### (5. Subclass)
+- All subclasses in the PHB
+- All subclasses from the UE which you can find [here](https://www.dndbeyond.com/sources/dnd/ua?srsltid=AfmBOooXnyWekpz8xEMvWxXE58YNbmvDUyfUv3FB9LbdX8kxNIvIPblm)
 
 
 --------------------------------------------------------
