@@ -1,3 +1,6 @@
 ## Orc One Eyed God
 ![[Gruumsh.webp]]
-Orc God NOT evil
+
+**Gruumsh** is an  Orc God that is Good aligned.
+
+Most orc communes and tribes follow his teachings of mutual help and protection.
