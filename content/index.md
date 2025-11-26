@@ -16,6 +16,7 @@ Orc God
 - [[Corellion]]
 ## Homebrew
 - [[Levelling]]
+- [[Hiding]]
 ## Locations
 - [[Mirakas]]
 - [[Warmshore]]
