@@ -1,3 +1,6 @@
+---
+title: Welcome to Mirakas
+---
 # Welcome to Mirakas
 # [[Introduction to the Campaign]] -> Please Read
 
@@ -21,10 +24,10 @@ Orc God
 - [[Mirakas]]
 - [[Warmshore]]
 ## NPCs
-- TO BE CONTINUED
+- [[Jim]]
 ## Quests
 - **Active**
-	- TO BE CONTINUED
+	- Pirate Treasure Cove Cave
 - **Completed**
 	- ~~TO BE CONTINUED~~
 ## Tables
