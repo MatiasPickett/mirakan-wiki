@@ -4,12 +4,15 @@
 ## Check out the [[Character Creation]] page to make your characters
 
 ## Useful Links
-
+Orc God 
 - [2024 D&D Free Rules:](https://www.dndbeyond.com/sources/dnd/br-2024)
 - [Wikidot - All Character Options](http://dnd2024.wikidot.com/)
 - [Hero Forge - 3D Character Creator](https://www.heroforge.com/)
 ## Gods
-- [[Umberlee]]
+-  [[Mirakese Pantheon]]
+	- [[Tempus]]
+	- [[Gruumsh]]
+	- [[Umberlee]]
 - [[Corellion]]
 ## Homebrew
 - [[Levelling]]

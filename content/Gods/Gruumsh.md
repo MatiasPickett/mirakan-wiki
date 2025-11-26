@@ -1,2 +1,2 @@
 ![[Gruumsh.webp]]
-Orc God
+Orc God NOT evil
