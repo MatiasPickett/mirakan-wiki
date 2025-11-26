@@ -1,0 +1,2 @@
+![[Gruumsh.webp]]
+Orc God

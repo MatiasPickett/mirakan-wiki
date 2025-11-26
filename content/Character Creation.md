@@ -8,6 +8,8 @@ OH! And for **stats** I was thinking of you guys using **Standard Array**, which
 
 Also! You can model your character in [Hero Forge](https://www.heroforge.com/).
 
+Also all character information can be found on [Wikidot](http://dnd2024.wikidot.com/)
+
 ### 1. Classes: 
 - ALL
 - UE [Artificer](https://www.dndbeyond.com/sources/dnd/ua/the-artificer)
