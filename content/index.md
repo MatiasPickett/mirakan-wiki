@@ -19,6 +19,7 @@ title: Welcome to Mirakas
 ## Homebrew
 - [[Levelling]]
 - [[Hiding]]
+- [[Better Wild Magic Surge]]
 ## Locations
 - [[Mirakas]]
 - [[Warmshore]]
@@ -32,6 +33,5 @@ title: Welcome to Mirakas
 ## Tables
 - [[Adventuring Gear]]
 - [[Scribing Spell Scrolls]]
-- [[Wild Magic Surge]]
 ## Maps
 - [[Mirakas-players.png]]
