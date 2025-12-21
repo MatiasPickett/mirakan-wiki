@@ -1,4 +1,4 @@
-### [Scribing Spell Scrolls](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#ScribingSpellScrolls) - Straight from the DnD Free Rules
+### [Link to Scribing Spell Scrolls](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#ScribingSpellScrolls) - Straight from the DnD Free Rules
 
 #### Spell Scroll Costs
 

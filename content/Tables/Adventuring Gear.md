@@ -1,3 +1,5 @@
+### [Link to Adventuring Gear](https://www.dndbeyond.com/sources/dnd/br-2024/equipment#AdventuringGear )- Straight from the DnD Free Rules
+
 | **Item**               | **Weight**   | **Cost** |
 | ---------------------- | ------------ | -------- |
 | Acid                   | 1 lb.        | 25 GP    |

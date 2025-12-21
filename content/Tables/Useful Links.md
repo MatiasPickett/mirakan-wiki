@@ -1,2 +1,0 @@
-- [Wikidot](http://dnd2024.wikidot.com/)
-- [Hero Forge](https://www.heroforge.com/)
