@@ -19,7 +19,13 @@ Previously know as “Cleotris” or “Cleo” by the Local population, was ren
 - _+All original inhabitants_
 
 ## Religion
-- See [[Mirakese Pantheon]]
+- [[Gruumsh]]
+- [[Tempus]]
+- [[Umberlee]]
+
+Elven Import
+- [[Corellion]]
+
 
 ## [[Mirakas-players.png]]
 ![[Mirakas-players.png]]

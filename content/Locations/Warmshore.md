@@ -1,3 +1,4 @@
+![[Warmshore.jpg]]
 ## Description
 
 This is small fishing town on the East coast of [[Mirakas]]. It has a population of around 500 people. Most of the people here are either fishermen and fisherwomen, or aim to provide services to them, such as tavern-keeps to entertain, blacksmiths and weavers to provide tools, or priests to ensure good omens while sailing.

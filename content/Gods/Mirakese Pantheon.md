@@ -1,3 +1,0 @@
-- [[Tempus]]
-- [[Gruumsh]]
-- [[Umberlee]]

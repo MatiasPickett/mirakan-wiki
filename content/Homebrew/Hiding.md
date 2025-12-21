@@ -1,3 +1,5 @@
+![[sneaky.jpg]]
+
 I really dislike both the 2014 and 2024 rules for hiding, so here are my simplified rules. (Adapted from the 2024 Free Rules)
 
 ### Hide \[Action\]
