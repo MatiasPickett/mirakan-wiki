@@ -15,7 +15,7 @@ Of course no good town is complete without some crime. Warmshore had always had 
 
 ## Points of Interest
 - Town Hall
-	- [[]] is the mayor of the town
+	- [Doug Plowman] is the mayor of the town
 - Fish Market
 - Inn
 - General Store
