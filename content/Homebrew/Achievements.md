@@ -1,5 +1,5 @@
 I thought it would be fun to add some achievements to the game.
-Each achievement obtained come with the reward of an Heroic Inspiration, and possibly other special rewards.
+Each achievement obtained comes with the reward of an Heroic Inspiration, and sometimes other extras.
 ### Story Achievements
 - **Baptized** — Create a name for the party
 - **Fangirl** — Speak with each member of [[The Big Four]]
