@@ -15,11 +15,13 @@ title: Welcome to Mirakas
 	- [[Tempus]]
 	- [[Gruumsh]]
 	- [[Umberlee]]
+	- [[The Golden God]]
 - [[Corellion]]
 ## Homebrew
 - [[Levelling]]
 - [[Hiding]]
 - [[Better Wild Magic Surge]]
+- [[Achievements]]
 ## Locations
 - [[Mirakas]]
 - [[Warmshore]]
