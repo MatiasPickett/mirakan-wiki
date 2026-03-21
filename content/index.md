@@ -2,10 +2,6 @@
 title: Welcome to Mirakas
 ---
 # Welcome to Mirakas
-# [[Introduction to the Campaign]] -> Please Read
-
-## Check out the [[Character Creation]] page to make your characters
-
 ## Useful Links
 - [2024 D&D Free Rules:](https://www.dndbeyond.com/sources/dnd/br-2024)
 - [Wikidot - All Character Options](http://dnd2024.wikidot.com/)
@@ -18,10 +14,10 @@ title: Welcome to Mirakas
 	- [[The Golden God]]
 - [[Corellion]]
 ## Homebrew
-- [[Levelling]]
-- [[Hiding]]
-- [[Better Wild Magic Surge]]
 - [[Achievements]]
+- [[Better Wild Magic Surge]]
+- [[Hiding]]
+- [[Levelling]]
 ## Locations
 - [[Mirakas]]
 - [[Warmshore]]
@@ -29,11 +25,12 @@ title: Welcome to Mirakas
 - [[Jim]]
 ## Quests
 - **Active**
-	- Pirate Treasure Cove Cave
+	- ???
 - **Completed**
-	- ~~TO BE CONTINUED~~
+	- Pirate Treasure Cove Cave
 ## Tables
 - [[Adventuring Gear]]
 - [[Scribing Spell Scrolls]]
+- [[Wild Magic Surge]]
 ## Maps
 - [[Mirakas-players.png]]

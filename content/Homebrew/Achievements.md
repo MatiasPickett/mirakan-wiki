@@ -8,7 +8,7 @@ Each achievement obtained comes with the reward of an Heroic Inspiration, and so
 - **Must have been the wind** —  Kill an enemy using the environment
 - **Sniper** — Kill an enemy more than 600 ft. away
 - **Overkill** — Deal 200 damage in a single turn
-- **The First Half** — Complete a Dungeon
+- ~~**The First Half** — Complete a Dungeon~~
 - **The Other Half** — Slay a Dragon
 ### Miscellaneous Achievements
 - **I meant to do that** — Roll two Nat 20s with disadvantage
