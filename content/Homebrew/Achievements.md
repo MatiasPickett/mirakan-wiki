@@ -11,7 +11,7 @@ Each achievement obtained comes with the reward of an Heroic Inspiration, and so
 - ~~**The First Half** — Complete a Dungeon~~
 - **The Other Half** — Slay a Dragon
 ### Miscellaneous Achievements
-- **I meant to do that** — Roll two Nat 20s with disadvantage
+- ~~**I meant to do that** — Roll two Nat 20s with disadvantage~~
 - **Oops** — Roll two Nat 1s with advantage
 - **Overkill** — Roll a 30 or higher
 ### Secret Achievements
@@ -19,7 +19,6 @@ Each achievement obtained comes with the reward of an Heroic Inspiration, and so
 - **Slippery Boggart** — HIDDEN
 - **It'l happen to you too** — HIDDEN
 - **Conspiracy Theorist** — HIDDEN
-
 ### Personal Goals
 #### Tiago
 - **Deus Vult**
