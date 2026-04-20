@@ -8,28 +8,32 @@ title: Welcome to Mirakas
 - [Hero Forge - 3D Character Creator](https://www.heroforge.com/)
 ## Gods
 -  Mirakese Pantheon
-	- [[Tempus]]
 	- [[Gruumsh]]
-	- [[Umberlee]]
+	- [[Mielikki]]
+	- [[Tempus]]
 	- [[The Golden God]]
+	- [[Umberlee]]
 - [[Corellion]]
 ## Homebrew
 - [[Achievements]]
 - [[Better Wild Magic Surge]]
 - [[Hiding]]
 - [[Levelling]]
+- [[Lingering Injuries]]
 ## Locations
 - [[Mirakas]]
 - [[Warmshore]]
-## NPCs
+## Important NPCs
 - [[Jim]]
 ## Quests
 - **Active**
 	- ???
 - **Completed**
 	- Pirate Treasure Cove Cave
+	- Drug-Ring Dungeon
 ## Tables
 - [[Adventuring Gear]]
+- [[Lingering Injuries.pdf]]
 - [[Scribing Spell Scrolls]]
 - [[Wild Magic Surge]]
 ## Maps
